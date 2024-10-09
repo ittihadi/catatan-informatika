@@ -10,7 +10,7 @@ jadi ada kemungkinan konsep di dalam sini disederhanakan
 
 ## Daftar Isi
 
-<!-- - [Konsep-konsep dasar komputer]() -->
+- [Konsep-Konsep dasar Komputer](Core)
 
 ## Informasi Lain
 
